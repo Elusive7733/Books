@@ -13,3 +13,4 @@ Are pushed into this repository. Just a personal collection.
 
 - Data Model Patterns: A Metadata Map (The Morgan Kaufmann Series in Data Management Systems) 1st Edition, by David C. Hay  (Author)
 - Refactoring Database, Martin Fowler
+- Programming Pearls 2nd Edition by Jon Bentley (Author)
